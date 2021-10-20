@@ -4,7 +4,7 @@ os.system('cls')
 print('\n \n')
 
 
-class Carro:
+class Carror:
 
     def __init__(self,llantas,color,gente,vel):
 
