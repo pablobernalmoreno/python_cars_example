@@ -73,3 +73,4 @@ halcon = Nave(7,'girs',6,1050,'de luz')
 print(halcon.__dict__)
 
 print(podrido)
+print(beso_negro)
