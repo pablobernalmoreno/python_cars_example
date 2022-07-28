@@ -71,3 +71,5 @@ buseta = Bus(6,'blanco',35,70,2)
 
 halcon = Nave(7,'girs',6,1050,'de luz')
 print(halcon.__dict__)
+
+print(podrido)
